@@ -1,0 +1,13 @@
+.DS_Store
+/iso/*
+/iso/*.iso
+/box/*
+/box/*.box
+!/iso/README.md
+/output-vmware/
+/output-vmware-iso/
+/output-vmware-vmx/
+/output-virtualbox/
+/output-virtualbox-iso/
+/output-virtualbox-ovf/
+/packer_cache/
